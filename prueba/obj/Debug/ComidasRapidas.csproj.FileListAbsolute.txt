@@ -1,0 +1,15 @@
+C:\Users\JHON\source\repos\prueba\prueba\bin\Debug\ComidasRapidas.exe.config
+C:\Users\JHON\source\repos\prueba\prueba\bin\Debug\ComidasRapidas.exe
+C:\Users\JHON\source\repos\prueba\prueba\bin\Debug\ComidasRapidas.pdb
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\ComidasRapidas.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\prueba.Comanda.resources
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\prueba.EntradaDatos.resources
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\prueba.Login.resources
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\prueba.Password.resources
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\ComidasRapidas.Properties.Resources.resources
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\prueba.ReporteInventario.resources
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\ComidasRapidas.csproj.GenerateResource.cache
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\ComidasRapidas.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\ComidasRapidas.exe
+C:\Users\JHON\source\repos\prueba\prueba\obj\Debug\ComidasRapidas.pdb

@@ -1,0 +1,15 @@
+C:\Users\JHON\source\repos\Prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\JHON\source\repos\Prueba\prueba\bin\Debug\prueba.exe
+C:\Users\JHON\source\repos\Prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.Comanda.resources
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.EntradaDatos.resources
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.Login.resources
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.Password.resources
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.ReporteInventario.resources
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.csproj.GenerateResource.cache
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.exe
+C:\Users\JHON\source\repos\Prueba\prueba\obj\Debug\prueba.pdb
